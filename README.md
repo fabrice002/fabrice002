@@ -1,6 +1,6 @@
 - 👋 Hi, I’m fabrice002
 - 👀 I’m interested in WEB developpement
-- 🌱 I’m currently learning IONIC and ANGULAR framework
+- 🌱 I’m currently learning LARAVEL and ANGULAR framework
 - 💞️ I’m looking to collaborate on WEB-APP project
 - 📫 How to reach me through my email fabriceherve02@gmail.com
 
