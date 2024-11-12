@@ -1,6 +1,7 @@
-- 👋 Hi, I’m fabrice002
+- 👋 Hi, I’m Ouandji Herve Fabrice
+- 👀 I’m interested in data science
 - 👀 I’m interested in WEB developpement
-- 🌱 I’m currently learning LARAVEL and ANGULAR framework
+- 🌱 I’m currently working with Laravel and FASTAPI
 - 💞️ I’m looking to collaborate on WEB-APP project
 - 📫 How to reach me through my email fabriceherve02@gmail.com
 
